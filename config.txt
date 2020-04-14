@@ -1,0 +1,6 @@
+{
+"brok-url" : "mqtt://mqtt.eclipse.org",
+"brok-port" : 1883,
+"OTA-port" : 443,
+"OTA-url" : "https://raw.githubusercontent.com/mhdfrancois/IoTpub/master/IoTSensorCpp.bin"
+}
