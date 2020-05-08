@@ -16,5 +16,5 @@ iot_aqs/ID_ABCDEF/config
 }
 iot_aqs/ID_FFFFFF/fwinfo
 {
-"fw_versione": "0.05.08-14:17:37"
+"fw_version": "0.05.08-14:17:37"
 }
